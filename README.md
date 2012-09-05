@@ -26,6 +26,10 @@ CFDirectoryLister is a single file solution to listing the contents of a directo
 ## Example
 View a simple [demo of CFDirectoryLister](http://andymatthews.net/uploads/)
 
+You can also see a screenshot of the output.
+
+![CFDirectoryLister screenshot](http://andymatthews.net/uploads/cfdirectorylister-example.png)
+
 ## Quick start
 
 Clone the git repo - `git clone https://github.com/commadelimited/CFDirectoryLister.git` - or [download it](https://github.com/commadelimited/CFDirectoryLister/zipball/master)
